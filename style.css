@@ -5,13 +5,13 @@
 /* header css-start */
 .header{
   display: flex;
+  font-size: 32px;
   align-items: center;
 }
 .button button{
   background-color: #FF401A;
   color: white;
   font-weight: 700;
-  
 }
 /* header css-end */
 /* event css-start */
@@ -25,7 +25,6 @@
   margin-top: 100px;
 }
 /* news css-end */
-
 /* client css-start */
 .client{
   background-color: #FF481D;
@@ -35,5 +34,9 @@
 .content{
   margin-top: 130px;
 }
-
 /* client css-end */
+/* header icon css-start */
+.icon{
+  margin-bottom: 200px
+}
+/* header icon css-end */
